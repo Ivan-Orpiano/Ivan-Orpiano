@@ -30,7 +30,7 @@ I enjoy transforming complex processes into simple automated systems using AI, a
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
-![Zapier](https://img.shields.io/badge/Make-6D5DF6?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-6D5DF6?style=for-the-badge)
 
 ### Development
 
