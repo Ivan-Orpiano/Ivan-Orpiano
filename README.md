@@ -55,8 +55,7 @@ I believe technology should empower people to focus on meaningful work while int
 
 ## 🌐 Let's Connect
 
-* LinkedIn: linkedin.com/in/ivanorpiano
-* GitHub: github.com/Ivan-Orpiano
+* LinkedIn: [linkedin.com/in/ivanorpiano](https://www.linkedin.com/in/ivanorpiano/)
 * Email: [ivanritchelorpiano@gmail.com](mailto:ivanritchelorpiano@gmail.com)
 
 ---
