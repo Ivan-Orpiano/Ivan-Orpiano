@@ -43,7 +43,7 @@ I design **intelligent workflows**, build **AI-powered applications**, integrate
 
 | 🤖 AI Agents & LLM Applications | ⚙️ Workflow Automation | 📈 Business Process Optimization |
 |:---:|:---:|:---:|
-| 🌐 Full-Stack Development | 🔌 API Integrations | 📚 Knowledge Base & RAG Systems |
+| 🌐 AI Automation Engineering | 🔌 API Integrations | 📚 Knowledge Base & RAG Systems |
 | 💬 Conversational AI | 🏗️ System Design & Scalability | 🔄 End-to-End Automation Pipelines |
 
 </div>
