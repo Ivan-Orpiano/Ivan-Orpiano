@@ -91,7 +91,7 @@ I design **intelligent workflows**, build **AI-powered applications**, integrate
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ivan-orpiano&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Ivan-Orpiano&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
