@@ -14,7 +14,6 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanorpiano/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanritchelorpiano@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Ivan-Orpiano&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
