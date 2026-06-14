@@ -14,7 +14,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanorpiano/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanritchelorpiano@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=ivanorpiano&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ivan-Orpiano&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -78,7 +78,7 @@ I design **intelligent workflows**, build **AI-powered applications**, integrate
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanorpiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivan-Orpiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Orpiano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
@@ -97,7 +97,7 @@ I design **intelligent workflows**, build **AI-powered applications**, integrate
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ivanorpiano&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ivan-Orpiano&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
