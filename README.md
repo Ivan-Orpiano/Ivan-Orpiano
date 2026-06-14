@@ -79,19 +79,19 @@ I design **intelligent workflows**, build **AI-powered applications**, integrate
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanorpiano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanorpiano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Orpiano&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivanorpiano&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ivan-Orpiano&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ivanorpiano&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Ivan-Orpiano&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
