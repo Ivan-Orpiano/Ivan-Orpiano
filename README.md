@@ -96,8 +96,9 @@ I design **intelligent workflows**, build **AI-powered applications**, integrate
 | Platform | Link |
 |:---:|:---|
 | 💼 **LinkedIn** | [linkedin.com/in/ivanorpiano](https://www.linkedin.com/in/ivanorpiano/) |
+| 📘 **Facebook** | [facebook.com/yourusername](https://facebook.com/vvanritch/) |
+| 📸 **Instagram** | [instagram.com/yourusername](https://instagram.com/softaivan/) |
 | 📧 **Email** | [ivanritchelorpiano@gmail.com](mailto:ivanritchelorpiano@gmail.com) |
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=580&height=40&lines=%E2%AD%90+Building+the+future%2C+one+workflow+at+a+time." alt="Footer Typing" />
