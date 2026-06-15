@@ -71,6 +71,7 @@ I design **intelligent workflows**, build **AI-powered applications**, integrate
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+---
 
 ## 💡 Philosophy
 
