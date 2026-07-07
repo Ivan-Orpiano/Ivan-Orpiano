@@ -1,112 +1,197 @@
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                        -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:6366F1&height=220&section=header&text=Ivan%20Orpiano&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Automation%20Engineer%20%E2%80%A2%20CS%20Graduate&descAlignY=60&descAlign=50&descColor=C4B5FD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:6366F1&height=210&section=header&text=Ivan%20Orpiano&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=I%20build%20AI%20systems%20that%20do%20the%20work%20nobody%20should%20do%20by%20hand&descSize=17&descAlignY=62&descColor=DDD6FE"/>
 
 <div align="center">
 
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=600&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=55&lines=%F0%9F%A4%96+Building+intelligent+systems;%E2%9A%99%EF%B8%8F+Automating+repetitive+work;%F0%9F%9A%80+Turning+ideas+into+scalable+solutions;%F0%9F%92%A1+Eliminating+manual+work+with+AI" alt="Typing Animation" />
+<!-- Positioning line -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=760&height=48&lines=AI+Automation+Engineer;RAG+%26+LLM+Application+Developer;Full-Stack+Builder+%C2%B7+FastAPI+%2B+React;Workflow+Architect+%C2%B7+n8n+%C2%B7+APIs+at+scale" alt="Roles" />
 
-<br/><br/>
+<br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanorpiano/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanritchelorpiano@gmail.com)
+<!-- Status + reach -->
+[![Open to Work](https://img.shields.io/badge/💼_Open_to_Work-Automation_%2F_Full--Stack-7C3AED?style=for-the-badge&labelColor=1e1b4b)](mailto:ivanritchelorpiano@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iorpiano.site-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b)](https://iorpiano.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/ivanorpiano/)
+[![Email](https://img.shields.io/badge/Email-Reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:ivanritchelorpiano@gmail.com)
+
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=iorpiano&style=flat-square&color=7C3AED&label=Profile+Views" alt="views" />
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+<!-- ═══════════════════════════════  ABOUT  ══════════════════════════════════ -->
 
-```javascript
-const ivan = {
-  role        : "AI Automation Engineer",
-  education   : "Computer Science Graduate",
-  superpower  : "Turning repetitive work into automated workflows",
-  passion     : ["Intelligent Systems", "AI Agents", "Scalable Solutions"],
-  currentFocus: "Building AI-powered apps that eliminate manual work",
-  philosophy  : "If a task is repeated enough times, it deserves automation.",
-};
+## &nbsp;⟶&nbsp; About
+
+I'm a **Computer Science graduate** and **AI Automation Engineer** based in the Philippines. I design intelligent workflows and ship **production-grade AI applications** — RAG pipelines, autonomous agents, and end-to-end automation — that turn slow, manual, error-prone processes into systems that just run.
+
+I care about **shipping**, not demos: clean architecture, real error handling, tests that pass, and zero-placeholder code that's ready for production.
+
+```python
+
 ```
 
-I design **intelligent workflows**, build **AI-powered applications**, integrate **APIs at scale**, and craft seamless user experiences that bridge the gap between **people** and **technology** — transforming complex, manual processes into simple, automated systems.
+<br/>
 
----
+<!-- ═══════════════════════════════  PROJECTS  ═══════════════════════════════ -->
 
-## 🚀 Currently Focused On
+## &nbsp;⟶&nbsp; Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Inbox Action Agent
+A production autonomous email agent that triages, reasons, and acts — with human approval gates for anything destructive.
+
+**Highlights**
+- Clean Architecture · fully strict-typed · 28 passing tests
+- Deterministic triage via single structured-output LLM call
+- Bounded ReAct tool loop with layered prompt-injection defense
+
+`Python` `FastAPI` `OpenAI` `pgvector` `Redis` `Docker`
+
+[**⟶ Repo**](#) · [**⟶ Demo**](https://iorpiano.site)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 AI Medical Knowledge Assistant
+A grounded RAG platform for healthcare professionals — answers strictly from source docs, with citations and relevance gating.
+
+**Highlights**
+- Hybrid dense + BM25 retrieval with RRF fusion
+- Streaming chat · Celery ingestion pipeline · admin console
+- Strict grounding — no answer without a cited source
+
+`React/TS` `FastAPI` `Qdrant` `Celery` `RAG`
+
+[**⟶ Repo**](#) · [**⟶ Demo**](https://iorpiano.site)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ ARIA — AI Secretary
+A polished React assistant app: responsive across mobile/tablet/desktop, WCAG-compliant contrast, off-canvas nav, and safe-area support.
+
+**Highlights**
+- Accessibility-first UI/UX
+- Clean, softened design system
+- Real-world responsive engineering
+
+`React` `TypeScript` `UI/UX`
+
+[**⟶ Repo**](#) · [**⟶ Demo**](https://iorpiano.site)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Automation Systems (n8n)
+Importable, production-ready workflows for growing businesses — from cold-email outreach to RAG agent orchestration.
+
+**Highlights**
+- Google Sheets + GPT + Gmail pipelines
+- Duplicate-send prevention · jittered delays · status tracking
+- Fully importable JSON, ready to deploy
+
+`n8n` `OpenAI` `REST APIs` `Google Workspace`
+
+[**⟶ Repo**](#) · [**⟶ Portfolio**](https://iorpiano.site)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-| 🤖 AI Agents & LLM Applications | ⚙️ Workflow Automation | 📈 Business Process Optimization |
-|:---:|:---:|:---:|
-| 🌐 AI Automation Engineering | 🔌 API Integrations | 📚 Knowledge Base & RAG Systems |
-| 💬 Conversational AI | 🏗️ System Design & Scalability | 🔄 End-to-End Automation Pipelines |
+**More on my portfolio ⟶ [iorpiano.site](https://iorpiano.site)**
 
 </div>
-
----
-
-## 🛠️ Tech Arsenal
-
-### 🧠 AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
-### 💻 Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 💡 Philosophy
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 <br/>
 
-> ### *"If a task is repeated enough times, it deserves automation."*
->
-> *Technology should empower people to focus on meaningful work while intelligent systems handle the repetitive processes behind the scenes.*
+<!-- ═══════════════════════════════  STACK  ══════════════════════════════════ -->
 
-</div>
+## &nbsp;⟶&nbsp; Tech Stack
 
----
+<table>
+<tr>
+<td valign="top" width="33%">
 
-## 🌐 Let's Connect
+**AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_%2F_Vector_DB-4F46E5?style=flat-square&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Backend & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Frontend & DevOps**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════  STATS  ══════════════════════════════════ -->
+
+## &nbsp;⟶&nbsp; GitHub Activity
 
 <div align="center">
 
-| Platform | Link |
-|:---:|:---|
-| 💼 **LinkedIn** | [linkedin.com/in/ivanorpiano](https://www.linkedin.com/in/ivanorpiano/) |
-| 📘 **Facebook** | [facebook.com/vvanritch](https://facebook.com/vvanritch/) |
-| 📸 **Instagram** | [instagram.com/softaivan](https://instagram.com/softaivan/) |
-| 📧 **Email** | [ivanritchelorpiano@gmail.com](mailto:ivanritchelorpiano@gmail.com) |
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iorpiano&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=6366F1&text_color=9ca3af&bg_color=0d1117" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iorpiano&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=6366F1&currStreakLabel=7C3AED&sideNums=9ca3af&currStreakNum=ffffff&dates=9ca3af&sideLabels=9ca3af" alt="streak" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=580&height=40&lines=%E2%AD%90+Building+the+future%2C+one+workflow+at+a+time." alt="Footer Typing" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iorpiano&layout=compact&hide_border=true&title_color=7C3AED&text_color=9ca3af&bg_color=0d1117&langs_count=8" alt="top langs" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=iorpiano&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED FOOTER BANNER                        -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:4F46E5,100:7C3AED&height=130&section=footer"/>
+<!-- ═══════════════════════════════  CONNECT  ════════════════════════════════ -->
+
+## &nbsp;⟶&nbsp; Let's Build Something
+
+<div align="center">
+
+I'm open to **AI automation, full-stack, and back-end** roles — and interesting collaborations.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-iorpiano.site-7C3AED?style=for-the-badge&labelColor=1e1b4b)](https://iorpiano.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ivanorpiano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/ivanorpiano/)
+[![Email](https://img.shields.io/badge/Email-ivanritchelorpiano-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:ivanritchelorpiano@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-softaivan-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e1b4b)](https://instagram.com/softaivan/)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&height=40&lines=Building+the+future%2C+one+workflow+at+a+time." alt="tagline" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:4F46E5,100:7C3AED&height=120&section=footer"/>
