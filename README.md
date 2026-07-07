@@ -10,7 +10,6 @@
 <br/>
 
 <!-- Status + reach -->
-[![Open to Work](https://img.shields.io/badge/💼_Open_to_Work-Automation_%2F_Full--Stack-7C3AED?style=for-the-badge&labelColor=1e1b4b)](mailto:ivanritchelorpiano@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-iorpiano.site-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1b4b)](https://iorpiano.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/ivanorpiano/)
 [![Email](https://img.shields.io/badge/Email-Reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:ivanritchelorpiano@gmail.com)
