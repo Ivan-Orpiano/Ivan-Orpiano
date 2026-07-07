@@ -168,19 +168,6 @@ Importable, production-ready workflows for growing businesses — from cold-emai
 
 <!-- ═══════════════════════════════  STATS  ══════════════════════════════════ -->
 
-## &nbsp;⟶&nbsp; GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iorpiano&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=6366F1&text_color=9ca3af&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=iorpiano&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=6366F1&currStreakLabel=7C3AED&sideNums=9ca3af&currStreakNum=ffffff&dates=9ca3af&sideLabels=9ca3af" alt="streak" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iorpiano&layout=compact&hide_border=true&title_color=7C3AED&text_color=9ca3af&bg_color=0d1117&langs_count=8" alt="top langs" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=iorpiano&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
-
-</div>
-
 <br/>
 
 <!-- ═══════════════════════════════  CONNECT  ════════════════════════════════ -->
