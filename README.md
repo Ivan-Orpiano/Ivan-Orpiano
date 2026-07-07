@@ -15,8 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/ivanorpiano/)
 [![Email](https://img.shields.io/badge/Email-Reach_out-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:ivanritchelorpiano@gmail.com)
 
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=iorpiano&style=flat-square&color=7C3AED&label=Profile+Views" alt="views" />
 
 </div>
 
@@ -176,7 +174,7 @@ Importable, production-ready workflows for growing businesses — from cold-emai
 
 <div align="center">
 
-I'm open to **AI automation, full-stack, and back-end** roles — and interesting collaborations.
+I'm open to **AI automation, AI Engineering, and Back-end** roles — and interesting collaborations.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-iorpiano.site-7C3AED?style=for-the-badge&labelColor=1e1b4b)](https://iorpiano.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivanorpiano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://www.linkedin.com/in/ivanorpiano/)
