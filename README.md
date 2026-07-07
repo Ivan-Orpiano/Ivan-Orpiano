@@ -1,9 +1,4 @@
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!--   IVAN ORPIANO · GITHUB PROFILE README                                    -->
-<!--   Brand: Workflow Canvas · Indigo/Violet · Fira Code                      -->
-<!--   NOTE: replace "iorpiano" below with your exact GitHub username if it    -->
-<!--   differs, and swap the project repo links (marked ⟶ REPO) for real ones. -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:6366F1&height=210&section=header&text=Ivan%20Orpiano&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=I%20build%20AI%20systems%20that%20do%20the%20work%20nobody%20should%20do%20by%20hand&descSize=17&descAlignY=62&descColor=DDD6FE"/>
 
