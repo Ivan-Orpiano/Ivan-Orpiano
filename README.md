@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://raw.githubusercontent.com/iorpiano/iorpiano/main/banner.svg" alt="Ivan Orpiano — AI Automation Engineer"/>
+<img width="100%" src="https://raw.githubusercontent.com/iorpiano/banner.svg" alt="Ivan Orpiano — AI Automation Engineer"/>
 
 <div align="center">
 
