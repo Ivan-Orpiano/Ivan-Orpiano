@@ -1,4 +1,4 @@
-<img width="100%" src="https://raw.githubusercontent.com/iorpiano/iorpiano/main/assets/banner.svg" alt="Ivan Orpiano — AI Automation Engineer"/>
+<img width="100%" src="https://raw.githubusercontent.com/Ivan-Orpiano/Ivan-Orpiano/main/assets/banner.svg" alt="Ivan Orpiano — AI Automation Engineer"/>
 
 <div align="center">
 
