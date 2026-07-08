@@ -1,6 +1,6 @@
 
 
-<img width="100%" src="https://raw.githubusercontent.com/ivan-orpiano-banner.svg" alt="Ivan Orpiano — AI Automation Engineer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:7C3AED,50:4F46E5,100:6366F1&height=180&text=Ivan%20Orpiano&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=AI%20Automation%20Engineer&descSize=18&descColor=DDD6FE"/>
 
 <div align="center">
 
