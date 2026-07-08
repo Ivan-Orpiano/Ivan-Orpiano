@@ -1,6 +1,5 @@
+<img width="100%" src="https://raw.githubusercontent.com/iorpiano/iorpiano/main/assets/banner.svg" alt="Ivan Orpiano — AI Automation Engineer"/>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=2500&pause=900&color=7C3AED&center=true&vCenter=true&width=800&height=90&lines=Ivan+Orpiano;AI+Automation+Engineer;RAG+%26+LLM+Systems" alt="Ivan Orpiano"/>
 <div align="center">
 
 <!-- Positioning line -->
