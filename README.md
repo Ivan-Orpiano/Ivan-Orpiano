@@ -54,7 +54,7 @@ class Ivan:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_%2F_Vector_DB-4F46E5?style=flat-square&logoColor=white)
+
 
 </td>
 <td valign="top" width="33%">
@@ -66,6 +66,7 @@ class Ivan:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_%2F_Vector_DB-4F46E5?style=flat-square&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
