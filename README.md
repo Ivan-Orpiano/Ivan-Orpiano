@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<!-- Positioning line -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=760&height=48&lines=AI+Automation+Engineer;RAG+%26+LLM+Application+Developer;Full-Stack+Builder+%C2%B7+FastAPI+%2B+React;Workflow+Architect+%C2%B7+n8n+%C2%B7+APIs+at+scale" alt="Roles" />
 
 <br/>
 
