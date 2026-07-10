@@ -1,5 +1,3 @@
-<img width="100%" src="https://raw.githubusercontent.com/Ivan-Orpiano/Ivan-Orpiano/main/assets/banner.svg" alt="Ivan Orpiano — AI Automation Engineer"/>
-
 <div align="center">
 
 
@@ -100,8 +98,3 @@ I'm open to **AI automation, AI Engineering, and Back-end** roles — and intere
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&height=40&lines=Building+the+future%2C+one+workflow+at+a+time." alt="tagline" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:4F46E5,100:7C3AED&height=120&section=footer"/>
